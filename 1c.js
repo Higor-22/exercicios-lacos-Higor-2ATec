@@ -2,4 +2,4 @@ let soma = 0;
 for (let c = 1; c <= 100; c++){
     soma += c; // soma = soma + c;
 }
-console.log(soma);
+ console.log(soma);
